@@ -1,2 +1,6 @@
 change 1
+<<<<<<< feat3
+change 2 from feat 3
+=======
 Change 2 fron feat 2
+>>>>>>> main
